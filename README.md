@@ -8,7 +8,7 @@ This project predicts whether a bank customer will subscribe to a term deposit b
 
 The main objective is to build a Machine Learning model that predicts whether a customer will say Yes or No to subscribing to a bank term deposit.
 
-## Technologies Used
+## Technologies Used 
 
 * Python
 * Pandas
