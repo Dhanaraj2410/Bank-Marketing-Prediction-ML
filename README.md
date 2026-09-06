@@ -1,4 +1,4 @@
-# Bank Marketing Prediction using Machine Learning 
+# Bank Marketing Prediction using Machine Learning  
 
 ## Project Overview 
 
