@@ -4,7 +4,7 @@
 
 This project predicts whether a bank customer will subscribe to a term deposit based on customer information and previous marketing campaign data.
 
-## Objective
+## Objective  
 
 The main objective is to build a Machine Learning model that predicts whether a customer will say Yes or No to subscribing to a bank term deposit.
 
