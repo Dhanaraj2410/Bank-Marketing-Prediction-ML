@@ -18,7 +18,7 @@ The main objective is to build a Machine Learning model that predicts whether a 
 * Scikit-learn
 
 ## Machine Learning Algorithm
-
+ 
 * Logistic Regression
 
 ## Project Workflow
